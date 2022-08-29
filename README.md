@@ -1,24 +1,13 @@
 # wangeditor-formula-plugin
 
-## Project setup
-```
+## 安装依赖
+
+```text
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+## 启动项目
+
+```text
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

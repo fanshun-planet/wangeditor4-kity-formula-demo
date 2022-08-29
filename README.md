@@ -1,4 +1,4 @@
-# wangeditor4-formula-plugin
+# wangeditor4-kity-formula-demo
 
 基于@vue/cli(4.5.x) + Vue2(2.7.x) + WangEditor4 + KityFormula的公式编辑器代码Demo。
 

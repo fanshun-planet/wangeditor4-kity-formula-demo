@@ -1,0 +1,22 @@
+.w-e-kity-formula-container .kity-formula-iframe {
+  border: 0;
+}
+
+.w-e-kity-formula-confirm-btn-wrapper {
+  text-align: right;
+}
+
+.w-e-kity-formula-confirm-btn-wrapper .confirm-btn {
+  padding: 0 20px;
+  font-size: 14px;
+  color: #666;
+  line-height: 32px;
+  background-color: #fcfcfc;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: all ease-in-out 120ms;
+}
+
+.w-e-kity-formula-confirm-btn-wrapper .confirm-btn:hover {
+  color: #333;
+}

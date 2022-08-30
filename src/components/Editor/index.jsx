@@ -9,7 +9,7 @@ export default Vue.extend({
     initEditor() {
       const editor = new WEditor('#editor-root');
       if (!editor) {
-        console.log('编辑器初始化失败！')
+        console.info('编辑器初始化失败！')
         return;
       }
       const { $, PanelMenu, Panel } = WEditor;
@@ -31,7 +31,6 @@ export default Vue.extend({
           confirmZone = null;
         };
         confirmZone = document.getElementById(submitBtnId);
-        console.log('==>', confirmZone);
         confirmZone?.addEventListener('click', onClose);
       };
       /** Kity Formula菜单类 */
